@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892182388712",
+    "firebase_url": "https://flash-chat-mesh.firebaseio.com",
+    "project_id": "flash-chat-mesh",
+    "storage_bucket": "flash-chat-mesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892182388712:android:e5b96d7796bb8f74dd4e5d",
+        "android_client_info": {
+          "package_name": "com.tejask.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892182388712-qdla2o46gv736mma2e9r0fm7f8mtmmuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfu7gTl90D87NezqBy0umNzNOC3XDwlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892182388712-qdla2o46gv736mma2e9r0fm7f8mtmmuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
